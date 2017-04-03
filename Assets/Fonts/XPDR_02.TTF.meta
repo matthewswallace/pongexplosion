@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d71642285342b4448a280e2ed08826c7
+timeCreated: 1490819868
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: xpaider pixel explosion 02
+  fontNames:
+  - xpaider pixel explosion 02
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
